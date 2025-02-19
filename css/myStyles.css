@@ -1,0 +1,11 @@
+.navbar-brand img {
+    height: 10vh;
+    width: auto; 
+    max-height: 120px; 
+} 
+.col-md-4 img {
+    max-width: 120px; /* Restricts the width */
+    max-height: 80px; /* Restricts the height */
+    width: auto;
+    height: auto;
+}
